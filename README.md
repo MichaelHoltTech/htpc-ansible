@@ -29,7 +29,7 @@ Login to your Ubuntu 14.04 machine using gui or console.
 Open terminal and run:
 
 ```
-wget --no-check-certificate https://raw.github.com/GR360RY/htpc-ansible/master/scripts/quickinstall.sh -O - | sh
+wget --no-check-certificate https://raw.github.com/mholtrlc/htpc-ansible/master/scripts/quickinstall.sh -O - | sh
 ```
 
 Choose roles/software and configure variables:
